@@ -3,7 +3,6 @@
 This project analyzes customer usage patterns for ConnectaTel, a telecommunications company operating in Mexico and Colombia. By combining customer information with service usage records, the analysis explores calling and messaging behavior, identifies unusual consumption patterns, and develops customer segments based on demographic characteristics and usage levels.
 
 > **Academic Project**
->
 > This project was developed for educational purposes as part of a simulated business case. The role, business scenario, and recommendations are intended to demonstrate a data analytics workflow and should not be interpreted as official guidance for the organizations referenced.
 
 ---
