@@ -155,7 +155,7 @@ These observations were retained because they may represent legitimate intensive
 
 ## 🔄 Reproduction Process
 
-The complete analysis can be reproduced directly in Google Colab without manually downloading or configuring the datasets.
+The complete analysis can be executed directly in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rojaspetit/analysis_connectatel/blob/main/analysis_connectatel.ipynb)
 
